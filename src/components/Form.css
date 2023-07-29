@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  background-color: darkolivegreen;
+}
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+}
